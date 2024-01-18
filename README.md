@@ -1,4 +1,4 @@
-1. Clone the repository
+1. Clone the repository `git clone git@github.com:kazmin89/testTask.git`
 2. Run `composer install`
 3. Run application `php run.php`
 4. Run phpunit test `vendor/phpunit/phpunit/phpunit test/
